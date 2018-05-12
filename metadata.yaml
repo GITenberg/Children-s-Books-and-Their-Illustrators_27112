@@ -1,0 +1,33 @@
+_repo: Children-s-Books-and-Their-Illustrators_27112
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27112-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: White, Gleeson
+    aliases:
+    - White, Joseph Gleeson
+    - White, J. W. G. (Joseph William Gleeson)
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '25976'
+    url: http://www.gutenberg.org/2009/agents/25976
+    wikipedia: http://en.wikipedia.org/wiki/Gleeson_White
+description: ''
+gutenberg_issued: '2008-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Children''s literature'
+- !lcsh 'Illustrated books'
+- !lcsh 'Illustrators'
+- !lcsh 'Illustration of books'
+title: Children's Books and Their Illustrators
+url: http://www.gutenberg.org/ebooks/27112
